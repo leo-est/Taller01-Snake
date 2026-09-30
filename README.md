@@ -1,5 +1,7 @@
 # Taller01-Snake
 
+Trabajo del grupo #2 paralelo 3 
+
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
 | Líder | Leonarrdo Estrada | leo-est  | personalizar botón y colores principales |
@@ -43,3 +45,4 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 3](capturas/evidencia_2_integrante_3.png)
+
