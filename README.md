@@ -1,7 +1,7 @@
 # Taller01-Snake
+![juego captura](capturas/snake_juego.png)
 
-![Snake game title screen with a green snake moving across a dark blue grid, bright yellow fruits, and a scoreboard showing the current score and game over text in the center, inside a simple arcade-style game interface] (captura/snake_juego.png)
-
+Trabajo del grupo #2 paralelo 3 
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
 | Líder | Leonarrdo Estrada | leo-est  | personalizar botón y colores principales |
