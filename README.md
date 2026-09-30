@@ -12,34 +12,34 @@
 
 Push exitoso:
 
-![Push exitoso del líder](C:\Users\RafaTheGoD\Downloads\Evidencia Taller 1)
+![Push exitoso del líder](capturas/evidencia_1_lider.png)
 
 ### Integrante 1
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1]()
+![Error Integrante 1](capturas/evidencia_1_integrante_1.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1]()
+![Push exitoso Integrante 1](capturas/evidencia_2_integrante_1.png)
 
 ### Integrante 2
 
 Error antes de resolver conflicto:
 
-![Error Integrante 2]()
+![Error Integrante 2](capturas/evidencia_1_integrante_2.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 2]()
+![Push exitoso Integrante 2](capturas/evidencia_2_integrante_2.png)
 
 ### Integrante 3
 
 Error antes de resolver conflicto:
 
-![Error Integrante 3]()
+![Error Integrante 3](capturas/evidencia_1_integrante_3.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 3]()
+![Push exitoso Integrante 3](capturas/evidencia_2_integrante_3.png)
